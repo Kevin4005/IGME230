@@ -3,8 +3,8 @@
 Explore the world of the shadow with the ability to control shadows!
 ## **2. Genre**
 ### Genres:
-   ..* Puzzle
-   ..* Platformer
+   * Puzzle
+   * Platformer
 ## **3. Platform**
 Desktop only
 ## **4. Story**
