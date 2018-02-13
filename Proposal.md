@@ -1,8 +1,7 @@
 # ** *Shadow Step* **
 ## **1. Concept**
 Explore the world of the shadow with the ability to control shadows!
-## **2. Genre**
-### Genres:
+## **2. Genre : **
    * Puzzle
    * Platformer
 ## **3. Platform**
